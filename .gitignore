@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Exclude subproject
+tubes-jarkom-client-proxy-server/
+
